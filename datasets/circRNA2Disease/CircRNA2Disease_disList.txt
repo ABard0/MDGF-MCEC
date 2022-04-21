@@ -1,0 +1,48 @@
+diabetic myocardial fibrosis
+colorectal cancer
+gastric cancer
+prostate cancer
+hypopharyngeal squamous cell carcinoma
+glioma
+esophageal squamous cell carcinoma
+atherosclerosis
+laryngeal squamous cell cancer 
+Hirschsprung disease
+active pulmonary tuberculosis
+osteosarcoma
+moyamoya
+lung cancer
+carotid disease and ischemic stroke
+papillary thyroid carcinoma
+oral squamous cell carcinomas
+alzheimer
+liver fibrosis
+pathological hypertrophy and heart failure
+acute myeloid leukemia
+hypertensive
+basal cell carcinoma
+bladder cancer
+hepatocellular carcinoma
+Avian leukosis virus subgroup
+pancreatic ductal adenocarcinoma
+myocardial infarction
+clear cell renal cell carcinoma
+breast cancer
+cardiac fibroblasts
+radioresistant esophageal cancer cells
+osteoarthritis
+coronary artery disease
+cutaneous squamous cell carcinoma 
+multiple sclerosis
+vascular endothelial dysfunction
+cervical cancer
+major depressive disorder
+polarized macrophages
+cardiac senescence
+liver cancer
+cardiovascular diseases
+melanoma
+diabetes mellitus
+leukemia
+rheumatoid arthritis
+chronic thromboembolic pulmonary hypertension
