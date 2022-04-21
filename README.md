@@ -32,7 +32,7 @@ The initial raw data include circRNA-disease associations and Mesh data.
 Extracting similarity matrix.
 Four similarity algorithms has list in folder "datasets/dataHandler" named "circFuncSimilarity.py" "DisSemanticSimilarity1.py" "DisSemanticSimilarity2.py" and "GIPSimilarity.py"
 
-## step 2:
+## step 3:
 We take association data in circRNA2Disease as example in main code(MDGF-MCEC.py)
 Five-fold cross validation results can be demonstrate in plots by running "MDGF-MCEC.py" 
 CircRNA-disease association prediction part of the model starts at line 493 of "MDGF-MCEC.py"：
