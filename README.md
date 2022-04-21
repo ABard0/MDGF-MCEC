@@ -25,7 +25,7 @@ Mesh database(https://www.nlm.nih.gov/mesh/meshhome.html)
 Take for example the circRNA-disease asociations from the circRNA2Disease database
 
 ## step 1:
-Harvest the initial raw data from database(circR2Disease... listed above) online.
+Harvest the initial raw data from database(circR2Disease... list above) online.
 The initial raw data include circRNA-disease associations and Mesh data.
 
 ## step 2:
