@@ -52,7 +52,7 @@ createSimilarityInfo(Dataset, path, name)
 'path' is the relative path to specified similarity matrix
 'name' is the name of specified similarity matrix
 '''
-...
+... ```
 There are two caveats:
 1)Our model supports only four similarity feature inputs. If there is a need to add a new similarity matrix, please repleace one old matrix.
 2)Similarity matrix need to satisfy the uniformed format.
