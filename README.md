@@ -43,6 +43,19 @@ if fold == num_cross_val-1:
     high_index = []
 ...
  ```  
+## similarity replacement interface:
+Due to it cannot be ruled out that other similarity extraction algorithms still exist. We set interface function for introducing other similarity extraction algorithms in our model of "prepareData2.python".
+ ```Python
+createSimilarityInfo(Dataset, path, name)
+'''
+'Dataset' is set as default.
+'path' is the relative path to specified similarity matrix
+'name' is the name of specified similarity matrix
+'''
+...
+There are two caveats:
+1)Our model supports only four similarity feature inputs. If there is a need to add a new similarity matrix, please repleace one old matrix.
+2)Similarity matrix need to satisfy the uniformed format.
 
 <br/>
  If you have any suggestions or questions, please email me at 6201613055@stu.jiangnan.edu.cn.
