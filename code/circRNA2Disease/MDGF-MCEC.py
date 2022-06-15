@@ -110,10 +110,7 @@ def prepare_data2(mv, seperate=False):
     for x in m:
         ttfnl.append(testfnl[x])
         label22.append(label2[x])
-    #print('************')
-    #print(ttfnl)
-    #print('************')
-    #print(label22)
+
     for x in range(0, link_number):                         #for equalizing positive and negative samples
         tfnl= ttfnl[x]                                    #tfnl= feature vector pair for no association
         lab= label22[x]                                      #lab= label of the above mentioned feature vector pair(0)
@@ -122,8 +119,6 @@ def prepare_data2(mv, seperate=False):
         train.append(tfnl)                                  #append the non associated feature vector pairs to train till x<=no. of associated pairs
         label1.append(lab)                                   #append the labels of non associated pairs(0) to label1
 
-    #print(train)
-    #print(label1)
     return np.array(train), label1, np.array(testfnl)
 
 def prepare_preData(seperate = False):
