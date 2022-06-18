@@ -58,7 +58,7 @@ There are two caveats:
 
 1)Our model supports only four similarity feature inputs. If there is a need to add a new similarity matrix, please repleace one old matrix.
 
-2)Similarity matrix need to satisfy the uniformed format.
+2)Similarity matrix needs to satisfy the uniformed format.
 
 <br/>
  If you have any suggestions or questions, please email me at 6201613055@stu.jiangnan.edu.cn.
